@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+扫帚河是一个普通的地方, 说她普通, 是因为她只是千千万万个中国乡村中极为平凡的一个.
+她太普通了, 几乎找不到什么值得大书特书的地方. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+然而, 她也是有故事的. 她记录了所有生于斯长于斯的普通人的故事. 普通人的故事可能不
+会很精彩, 但是同样有血有肉. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+扫帚河是我的故乡, 我希望我能叙述她和生活在那里的人们的故事. 
+
+希望有一天, 你也能加入进来, 叙述你的故乡的故事.
