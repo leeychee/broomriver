@@ -1,11 +1,10 @@
 # Site settings
-title: 扫帚河-中国乡村的缩影
+title: 小村落名字的故事
 email: leeychee@gmail.com
 description: > 
-    扫帚河位于皖西地区,一个充满乡土气息的普通乡村.
+    扫帚河，一个充满乡土气息的普通皖西村落，小村落名字故事的起点。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://broomriver.me" # the base hostname & protocol for your site
-twitter_username: jekyllrb
 github_username:  leeychee
 
 # Build settings
