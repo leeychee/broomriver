@@ -1,8 +1,8 @@
 # Site settings
-title: 小村落名字的故事
+title: 小村落的故事
 email: leeychee@gmail.com
 description: > 
-    扫帚河，一个充满乡土气息的普通皖西村落，小村落名字故事的起点。
+    扫帚河，一个充满乡土气息的普通皖西村落，小村落名字的起点。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://broomriver.me" # the base hostname & protocol for your site
 github_username:  leeychee
