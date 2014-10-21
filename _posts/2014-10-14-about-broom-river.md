@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "说说扫帚河"
+title:  "名字的故事-说说扫帚河"
 date:   2014-10-14 18:07:18
-categories: saozhouhe update
+author: 刘春珲
+categories: saozhouhe update namestory
 ---
 
 扫帚河位于皖西地区霍山县境内，那里环境优美，气候宜人，是个生活的好地方。
